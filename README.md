@@ -1,2 +1,2 @@
 # test
-Practice and Test GitHub Repository
+Test and Practice GitHub Repository
